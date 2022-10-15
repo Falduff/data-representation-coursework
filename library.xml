@@ -1,0 +1,30 @@
+<?xml version="1.0"encoding = "UTF-8">
+
+<library>
+    <catalogue>
+        <name>Technical</name>
+        <book>
+            <title>Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications</title>
+            <isbn>781098107963</isbn>
+            <author>Huyen, Chip </author>
+        </book>
+        <book>
+            <title>The StatQuest Illustrated Guide To Machine Learning </title>
+            <isbn>9798811583607</isbn>
+            <author>Starmer PhD, Josh</author>
+        </book>
+    </catalogue>
+    <catalogue>
+        <name>Cookery</name>
+        <book>
+            <title>30-Minute Cooking for Two: Healthy Dishes Without All the Fuss</title>
+            <isbn>9781641522243</isbn>
+            <author>Ellingson, Taylor</author>
+        </book>
+        <book>
+            <title>Cooking for Isaiah: Gluten-Free & Dairy-Free Recipes for Easy, Delicious Meals</title>
+            <isbn>9781606525654</isbn>
+            <author>Nardone, Silvana</author>
+        </book>
+    </catalogue>
+</library>
